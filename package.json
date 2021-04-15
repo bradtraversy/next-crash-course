@@ -1,11 +1,11 @@
 {
   "name": "next-crash-course",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "private": true,
   "scripts": {
-    "dev": "yarn next dev",
-    "build": "yarn next build && next export",
-    "start": "yarn next start"
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
   },
   "dependencies": {
     "next": "^10.1.3",
